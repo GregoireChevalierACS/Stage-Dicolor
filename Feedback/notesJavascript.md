@@ -130,3 +130,6 @@ ask(
   () => alert("You agreed."),
   () => alert("You canceled the execution.")
 ); // fonction flechée
+
+*06 Avril*
+async/await
