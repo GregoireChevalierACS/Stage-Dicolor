@@ -22,6 +22,9 @@
 - Relecture de la doc WSL2 et reprise d'ubuntu via WSL2
 - Réinstallation de WSL2 / linux ubuntu 20.04
 - MàJ linux
-- Installation de nodeJs & npm
-- Début de projet expressNodeJs (watch de fichiers ?)
+- Installation de nodeJs & npm https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment
+- installation et utilisation de vscode *dans ubuntu* (avec code .)
+- Début de projet expressNodeJs 
+- Entretien avec le patron
+- Génération de projet avec express
 - Revue de la syntaxe SQL
