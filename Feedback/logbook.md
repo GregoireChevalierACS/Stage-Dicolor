@@ -20,5 +20,8 @@
 06 Avril
 - Réunion de début de stage et prise de directives
 - Relecture de la doc WSL2 et reprise d'ubuntu via WSL2
+- Réinstallation de WSL2 / linux ubuntu 20.04
+- MàJ linux
+- Installation de nodeJs & npm
 - Début de projet expressNodeJs (watch de fichiers ?)
 - Revue de la syntaxe SQL
