@@ -133,3 +133,9 @@ ask(
 
 *06 Avril*
 async/await
+
+*07 Avril*
+if else sans {} si une seule ligne
+un tableau défini en const reste un tableau (objet idem), mais son contenu peut changer, à l'inverse des string et autres conneries du genre
+on ne touche plus au fondement de l'être de la constante définie une fois qu'elle est définie
+un tableau/objet est toujours défini en constante

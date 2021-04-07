@@ -8,3 +8,7 @@ https://futurestud.io/tutorials/node-js-get-a-files-last-modified-updated-date (
 https://nodejs.org/api/fs.html (node file system)
 https://attacomsian.com/blog/http-requests-axios (utilisation de clients http pour requetes api)
 https://www.tutorialsteacher.com/nodejs/jade-template-engine (doc Jade pour le templating sous express)
+dans pwshell taper wsl --shutdown
+les paquets npm peuvent être installés globalement sur la machine avec -G à l'installation
+nodemon = watcher
+https://nodejs.dev/learn/making-http-requests-with-nodejs (request http axios/node)

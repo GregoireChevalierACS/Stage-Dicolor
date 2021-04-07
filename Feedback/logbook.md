@@ -33,3 +33,5 @@
 - Affichage de date de dernière modif pour un fichier
 - Création de routeurs & vues correspondantes
 - Lecture de documentation sur l'utilisation des clients http pour faire des requêtes à des API 
+- Lecture de doc sur les api RESTful
+- Test de création d'api & envoi/récup de request http
