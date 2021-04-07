@@ -32,3 +32,4 @@
 07 Avril
 - Affichage de date de dernière modif pour un fichier
 - Création de routeurs & vues correspondantes
+- Lecture de documentation sur l'utilisation des clients http pour faire des requêtes à des API 

@@ -7,3 +7,4 @@ https://docs.npmjs.com/cli/v7/configuring-npm/package-json (config de package.js
 https://futurestud.io/tutorials/node-js-get-a-files-last-modified-updated-date (dates de modif)
 https://nodejs.org/api/fs.html (node file system)
 https://attacomsian.com/blog/http-requests-axios (utilisation de clients http pour requetes api)
+https://www.tutorialsteacher.com/nodejs/jade-template-engine (doc Jade pour le templating sous express)
