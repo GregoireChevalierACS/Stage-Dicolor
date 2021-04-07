@@ -62,3 +62,5 @@ function lastUpdatedDate (file) {
   return mtime
 }
 ```
+
+Les vues d'express sont au format .jade (~= twig pour symfony)

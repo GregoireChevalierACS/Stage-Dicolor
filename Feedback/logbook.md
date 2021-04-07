@@ -28,3 +28,7 @@
 - Entretien avec le patron
 - Génération de projet avec express
 - Début de revue de la syntaxe SQL
+
+07 Avril
+- Affichage de date de dernière modif pour un fichier
+- Création de routeurs & vues correspondantes
