@@ -33,7 +33,8 @@ Le express generator permet de générer des squelettes d'application (comme ske
 **important pour wsl2** :
 
 Pour éviter que la connexion à 127.0.0.1 soit refusée quand on utilise wsl2, il faut préciser : ```, '0.0.0.0'``` après chaque définition d'écoute de port. Soit dans l'index avec :
-```app.listen(port, '0.0.0.0', () => {
+```
+app.listen(port, '0.0.0.0', () => {
   console.log(`Example app listening on port ${port}!`)
 });
 ```
@@ -43,3 +44,21 @@ Soit dans bin/www
 server.listen(port, '0.0.0.0');
 ```
 si on a utilisé la génération de projet avec express.
+
+*07 Avril*
+
+Chaque fichier a des stats inhérentes telles que la date de création ou de modification. Le **mtime** garde la date de dernière modification du contenu du fichier. Le **ctime** garde la date de dernière modification des métadonnées du fichier tel que le nom du fichier ou ses droits d'accès. mtime et ctime sont exprimées jusqu'à la miliseconde.
+
+Pour utiliser les ctime et mtime on utilise le module node ```fs``` comme "file system" en l'appelant dans le code :
+```
+const Fs = require('fs')
+
+function lastUpdatedDate (file) {  
+  const { mtime, ctime } = Fs.statSync(file)
+
+  console.log(`File data   last modified: ${mtime}`)
+  console.log(`File status last modified: ${ctime}`)
+
+  return mtime
+}
+```

@@ -27,4 +27,4 @@
 - Début de projet expressNodeJs 
 - Entretien avec le patron
 - Génération de projet avec express
-- Revue de la syntaxe SQL
+- Début de revue de la syntaxe SQL
