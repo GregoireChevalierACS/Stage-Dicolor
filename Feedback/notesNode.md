@@ -65,3 +65,17 @@ function lastUpdatedDate (file) {
 
 Les vues d'express sont au format .jade (~= twig pour symfony)
 insomnia = postman en light
+
+*08 Avril*
+
+Avant d'interagir avec un fichier du filesystem, il faut lui donner un file descriptor
+
+File descriptor : A file descriptor is what's returned by opening the file using the open() method offered by the fs module:
+```
+const fs = require('fs')
+
+fs.open('/Users/joe/test.txt', 'r', (err, fd) => {
+  //fd is our file descriptor
+})
+```
+Le r en second paramètre est pour "read" qui permet la lecture du fichier. On trouve également r+ pour lire et écrire, w+ pareil mais crée le fichier s'il n'existe pas encore.
