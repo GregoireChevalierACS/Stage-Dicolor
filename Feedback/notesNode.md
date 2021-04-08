@@ -79,3 +79,16 @@ fs.open('/Users/joe/test.txt', 'r', (err, fd) => {
 })
 ```
 Le r en second paramètre est pour "read" qui permet la lecture du fichier. On trouve également r+ pour lire et écrire, w+ pareil mais crée le fichier s'il n'existe pas encore.
+
+Attention : ```fs.writeFile()```écrase le texte tapé avant l'appel de la fonction ! Il faut préciser le flag a+ pour rajouter du texte au texte existant :`
+```
+fs.writeFile('test.txt', content, { flag: 'a+' }, err => {
+  if (err) {
+    console.error(err)
+    return
+  }
+  //file written successfully
+})
+```
+On peut aussi utiliser ``fs.appendFile()``
+

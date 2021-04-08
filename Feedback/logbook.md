@@ -35,3 +35,10 @@
 - Lecture de documentation sur l'utilisation des clients http pour faire des requêtes à des API 
 - Lecture de doc sur les api RESTful
 - Test de création d'api & envoi/récup de request http
+
+08 Avril
+- Résolution de problèmes pour la requete post
+- Fin de l'exercice requetes api
+- Lecture de doc sur les api RESTful
+- Poursuite de la doc nodejs.dev
+- Découverte et application de schedules utilisant cron 
