@@ -49,3 +49,5 @@
 - Import et export de fonctions à travers les fichiers
 - Imbrication des exercices d'events et d'import
 - Installation et tests tailwind
+- Visio avec référent et récap
+- Visio d'équipe et intégration sur projet

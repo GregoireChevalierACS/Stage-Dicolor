@@ -12,3 +12,7 @@
 - Créer une api pour retourner des infos de la requête http
 - Apprendre à appeler une api depuis le front
 - Ajouter une entrée à un tableau déjà existant
+
+**09 Avril**
+
+- Apprendre à utiliser lodash

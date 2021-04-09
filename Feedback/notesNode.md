@@ -105,3 +105,5 @@ const monfichier = require("./mondossier/monfichier");
 dans le fichier destination
 
 Lorsqu'on utilise l'export / import pour les events, il est préférable de découper les events dans des fichiers différents pour éviter la full merde
+
+fs open permet d'accéder au fichier si besoin
