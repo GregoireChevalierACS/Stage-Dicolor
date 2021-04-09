@@ -42,3 +42,10 @@
 - Lecture de doc sur les api RESTful
 - Poursuite de la doc nodejs.dev
 - Découverte et application de schedules utilisant cron 
+
+09 Avril
+- Découverte de Tailwind
+- Exercice avec des events
+- Import et export de fonctions à travers les fichiers
+- Imbrication des exercices d'events et d'import
+- Installation et tests tailwind

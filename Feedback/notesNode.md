@@ -92,3 +92,16 @@ fs.writeFile('test.txt', content, { flag: 'a+' }, err => {
 ```
 On peut aussi utiliser ``fs.appendFile()``
 
+*09Avril*
+
+Pour utiliser une fonction d'un fichier dans un autre, il faut faire un 
+```
+module.exports = { mafonction };
+```
+dans le fichier source et 
+```
+const monfichier = require("./mondossier/monfichier");
+```
+dans le fichier destination
+
+Lorsqu'on utilise l'export / import pour les events, il est préférable de découper les events dans des fichiers différents pour éviter la full merde
