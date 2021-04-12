@@ -151,3 +151,12 @@ const idmax = Math.max(...ids)
 ```
 Ici, math.max sera appliqué à l'ensemble des résultats du tableau et non au tableau lui-même, qui sinon donnerait ```NaN```.
 
+*12Avril*
+
+str.subsract permet d'enlever des caractères d'une string en partant de l'un ou l'autre des bouts de la string.
+
+Si on veut enlever un bout de string fixe à la fin d'une string (une extension par exemple), on peut utiliser 
+```
+mastring.slice(0, -4)
+```
+où -4 correspond au nombre de caractères que l'on enlève à la fin de la string

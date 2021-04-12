@@ -107,3 +107,9 @@ dans le fichier destination
 Lorsqu'on utilise l'export / import pour les events, il est préférable de découper les events dans des fichiers différents pour éviter la full merde
 
 fs open permet d'accéder au fichier si besoin
+
+*12Avril*
+
+fs.open et fs.readfile vont chercher dans le dossier source. Pour pointer vers un fichier précis dans un dossier, il faut rajouter le chemin vers la cible expressément
+
+Ne pas oublier d'installer les packages requis dans chaque dossier, ou faire une install en -g pour global

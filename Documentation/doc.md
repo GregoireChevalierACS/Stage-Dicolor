@@ -22,3 +22,4 @@ https://www.alsacreations.com/tuto/lire/1812-Tailwind-CSS-decouverte-du-framewor
 https://blog.tailwindcss.com/tailwindcss-v2 (tailwind v2)
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ (article du créateur de tailwind sur la sémantique)
 https://wikiwi.icampagne.com (doc dicolor)
+https://www.npmjs.com/package/convert-csv-to-json (csv to json)

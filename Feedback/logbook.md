@@ -51,3 +51,6 @@
 - Installation et tests tailwind
 - Visio avec référent et récap
 - Visio d'équipe et intégration sur projet
+
+12 Avril
+- Mise en place de l'exercice csv
