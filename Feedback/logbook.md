@@ -54,3 +54,6 @@
 
 12 Avril
 - Mise en place de l'exercice csv
+- Début de la conversion depuis csv vers json
+- Début traitement données json
+- visio
