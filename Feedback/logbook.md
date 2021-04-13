@@ -57,3 +57,12 @@
 - Début de la conversion depuis csv vers json
 - Début traitement données json
 - visio
+
+13 Avril
+- Exercice csv : date
+- Ajout de fonciton async
+- Export en nouveau fichier csv
+- Résolution de bug lié à la création des csv
+- Filtre des formats de fichiers
+- Résolution de l'actualisation du calcul
+- Export des erreurs dans un fichier log

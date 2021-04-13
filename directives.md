@@ -16,3 +16,10 @@
 **09 Avril**
 
 - Apprendre à utiliser lodash
+
+**13Avril**
+
+- Supprimer les fichiers json et tuiliser les données dans des tableaux
+- Une fois l'exercice fini, mettre le cron dans app.js et y importer les fonctions de check de fichiers/folders
+- au lancement de l'app, vider le dossier de sortie en csv
+- refactorer l'ensemble
