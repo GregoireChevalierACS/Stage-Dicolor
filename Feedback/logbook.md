@@ -66,3 +66,12 @@
 - Filtre des formats de fichiers
 - Résolution de l'actualisation du calcul
 - Export des erreurs dans un fichier log
+
+14 Avril
+
+- Bascule vers app et modifications relatives
+- Nettoyage du dossier d'export au lancement de l'application
+- Refonte du visuel pour le log d'erreurs
+- Séparation de fonctions dans des fichiers différents et import depuis app
+- Résolution du problème de non actualisation des données
+- Check de taille de fichiers (en cours)
