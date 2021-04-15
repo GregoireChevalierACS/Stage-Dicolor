@@ -23,3 +23,7 @@
 - Une fois l'exercice fini, mettre le cron dans app.js et y importer les fonctions de check de fichiers/folders
 - au lancement de l'app, vider le dossier de sortie en csv
 - refactorer l'ensemble
+
+**15Avril**
+
+- Bonus : passer les cron en await et y adjoindre un bool qui va autoriser la fonction à se lancer

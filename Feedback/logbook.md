@@ -75,3 +75,10 @@
 - Séparation de fonctions dans des fichiers différents et import depuis app
 - Résolution du problème de non actualisation des données
 - Check de taille de fichiers (en cours)
+
+15 Avril
+
+- Check de taille de fichiers (fin)
+- appel de fonctions en asynchrone
+- Visionnage tutos 
+- Veille techno
