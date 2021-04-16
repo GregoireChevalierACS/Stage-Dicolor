@@ -160,3 +160,13 @@ Si on veut enlever un bout de string fixe à la fin d'une string (une extension 
 mastring.slice(0, -4)
 ```
 où -4 correspond au nombre de caractères que l'on enlève à la fin de la string
+
+*16Avril*
+
+```
+return new Promise((resolve, reject) => {
+        
+    }) //doc promise qui pemret de return de façon async avec resolve
+```
+
+return est enclavé dans son parent le plus proche, et n'est pas accessible en dehors de son parent

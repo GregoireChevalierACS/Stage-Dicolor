@@ -24,3 +24,4 @@ https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ (article d
 https://wikiwi.icampagne.com (doc dicolor)
 https://www.npmjs.com/package/convert-csv-to-json (csv to json)
 https://www.npmjs.com/package/json2csv (json to csv)
+https://stackoverflow.com/a/33292942 (explication de Promise)
