@@ -82,3 +82,10 @@
 - appel de fonctions en asynchrone
 - Visionnage tutos 
 - Veille techno
+
+16 Avril
+
+18 Avril
+
+- Résolution du problème d'export (le writefile nommait file au lieu de file.targetfile suite à la modif de vendredi)
+- 

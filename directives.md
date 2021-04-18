@@ -27,3 +27,8 @@
 **15Avril**
 
 - Bonus : passer les cron en await et y adjoindre un bool qui va autoriser la fonction à se lancer
+
+**18Avril**
+
+- Stocker les informations relatives aux users dans un tableau 
+- lier chaque ligne du tableau à une route
