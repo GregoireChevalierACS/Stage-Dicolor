@@ -95,4 +95,5 @@
 - Assignation de données aux variables pour chaque user
 - Résolution des problèmes de doublons d'utilisateurs
 - Visio decouverte nuxt & vue (watch method computed)
-- installer vue devtools
+- Installer vue devtools
+- Autoformation vuejs
