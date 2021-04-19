@@ -88,4 +88,11 @@
 18 Avril
 
 - Résolution du problème d'export (le writefile nommait file au lieu de file.targetfile suite à la modif de vendredi)
-- 
+
+19 Avril
+
+- Finalisation de l'async des cron
+- Assignation de données aux variables pour chaque user
+- Résolution des problèmes de doublons d'utilisateurs
+- Visio decouverte nuxt & vue (watch method computed)
+- installer vue devtools
