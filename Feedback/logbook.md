@@ -97,3 +97,9 @@
 - Visio decouverte nuxt & vue (watch method computed)
 - Installer vue devtools
 - Autoformation vuejs
+- Découverte Nuxt
+
+20 Avril
+
+- Installations nuxt et vue
+- Doc routing de nuxt

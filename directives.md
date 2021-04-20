@@ -32,3 +32,7 @@
 
 - Stocker les informations relatives aux users dans un tableau 
 - lier chaque ligne du tableau à une route
+
+**20Avril**
+
+-Réaliser une to-do list avec nuxt et vue

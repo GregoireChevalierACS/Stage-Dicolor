@@ -170,3 +170,7 @@ return new Promise((resolve, reject) => {
 ```
 
 return est enclavé dans son parent le plus proche, et n'est pas accessible en dehors de son parent
+
+*20Avril*
+
+parseint
