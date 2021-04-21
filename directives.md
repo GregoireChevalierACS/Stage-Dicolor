@@ -36,3 +36,80 @@
 **20Avril**
 
 -Réaliser une to-do list avec nuxt et vue
+
+**21Avril**
+
+Consignes exercice formulaire : 
+
+**nom**
+
+minimum 1 caractère
+		
+ne doit contenir que des lettres et des espaces + tirets
+**prénom**
+	
+minimum 2 caractères
+			
+ne doit contenir que des lettres et espaces + tirets
+	
+**adresse email**
+		
+doit répondre à la regex suivante : min 1 caractère @ min 1 caractère POINT min 2 caractères
+		
+ne doit contenir que des lettres, chiffres, arobase, tirets, underscores
+	
+**numéro de téléphone**
+		
+doit comprendre SOIT :
+
+10 chiffres
+			
+OU + de 10 caractères avec obligatoirement 10 chiffres + des espaces ou points
+	
+**adresse**		
+
+minimum 6 caractères
+		
+ne doit contenir que des lettres, chiffres, tirets, espaces
+			
+complément d'adresse		
+		
+non requis
+		
+si rempli, ne doit contenir que des lettres, chiffres, tirets, espaces
+	
+**code postal**
+
+5 chiffres	
+	
+**ville**
+		
+minimum 2 caractères	
+		
+ne doit contenir que des lettres, tirets et espaces
+	
+**pays**
+
+minimum 2 caractères
+		
+ne doit contenir que des lettres, tirets et espaces
+		
+**mot de passe**
+
+minimum 8 caractères
+		
+ne doit contenir que des lettres, chiffres et les caractères suivants : -, _, +, *
+		
+doit contenir AU MOINS :
+			
+1 majuscule
+			
+1 minuscule	
+			
+1 chiffre
+
+1 caractère spécial
+				
+**confirmation mdp**
+		
+- identique au mdp précédemment entré

@@ -103,3 +103,10 @@
 
 - Installations nuxt et vue
 - Doc routing de nuxt
+- Visio poursuite découverte nuxt vue
+
+21 Avril
+
+- Doc
+- Tutos
+- Découverte des consignes exercice formulaire
