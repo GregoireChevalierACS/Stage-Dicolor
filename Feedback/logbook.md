@@ -110,3 +110,15 @@
 - Doc
 - Tutos
 - Découverte des consignes exercice formulaire
+
+22 Avril
+
+- Démarrage projet formulaire
+- Création de fonctions de validation de string
+- Recherche de doc sur les regex
+- Check du npm validator
+
+Après-midi
+
+- Visio JM, présentation
+- Visio store du nuxt(vue)

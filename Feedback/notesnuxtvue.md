@@ -65,13 +65,13 @@ Le **contexte** est utilisé pour permettre un accès aux autres parties d'une a
 
 **mounted** 
 
-v-for
+v-for 
 
 v-if  **! : en cas de non remplissage de la condition, les éléments relatifs sont supprimés du dom**
 
 v-show comme v-if mais cache au lieu de détruire
 
-v-model
+v-model value= xxx : permet d'écouter les changements et lier la valeur retournée à une variable locale
 
 module != buildmodule != plugin
 
@@ -83,3 +83,23 @@ possibilité de faire marcher un plugin que coté client ou serveur (server side
 
 toujours utiliser un module nuxt officiel si possible
 
+*22Avril*
+
+Les middlewares sont définissables
+Nuxt permet l'import de composants en même temps qu'on les définit 
+
+Le fichier config.nuxt 
+
+Importance des modules, qui font de nuxt un framework en puissance
+
+le Just In time permet de compiler à la volée le rechargement coté serveur ce qui accélère *considérablement* le temps de développement
+
+Voir dans la doc le principe de variants
+
+watch ~= eventlistener js (regarde la valeur locale de qc)
+
+se renseigner sur v-model -> watch -> emit -> @
+
+**store** : stockage de l'application. Le fichier store s'il est seul se nomme index.js, sinon, les fichiers sont scrupuleusement nommés.
+
+copie par référence != copie par valeur

@@ -72,7 +72,7 @@ minimum 6 caractères
 		
 ne doit contenir que des lettres, chiffres, tirets, espaces
 			
-complément d'adresse		
+**complément d'adresse**		
 		
 non requis
 		
