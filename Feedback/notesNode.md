@@ -113,3 +113,7 @@ fs open permet d'accéder au fichier si besoin
 fs.open et fs.readfile vont chercher dans le dossier source. Pour pointer vers un fichier précis dans un dossier, il faut rajouter le chemin vers la cible expressément
 
 Ne pas oublier d'installer les packages requis dans chaque dossier, ou faire une install en -g pour global
+
+*23Avril*
+
+Si on doit zipper un projet node, ne jamais y inclure le dossier "node_modules" (trop long et lourd à zipper)
