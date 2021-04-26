@@ -61,8 +61,6 @@ Le **contexte** est utilisé pour permettre un accès aux autres parties d'une a
 
 **method**
 
-**vmodel**
-
 **mounted** 
 
 v-for 
@@ -71,7 +69,7 @@ v-if  **! : en cas de non remplissage de la condition, les éléments relatifs s
 
 v-show comme v-if mais cache au lieu de détruire
 
-v-model value= xxx : permet d'écouter les changements et lier la valeur retournée à une variable locale
+**v-model** value= xxx : permet d'écouter les changements et lier la valeur retournée à une variable locale
 
 module != buildmodule != plugin
 
@@ -117,4 +115,33 @@ To get started:
         cd todonuxt
         npm run build
         npm run start
+```
+
+À la fin de chaque fichier de composant, il faut mettre une et une seule ligne vide pour qu'il soit correctement interprété par nuxt
+
+penser à import quand on utilise une balise script
+
+vbase + tab créée un template vue
+
+@submit = v-on:submit
+
+```
+import { mapGetters } from 'vuex'
+export default {
+  name: 'TheTodoList',
+  computed: {
+    ...mapGetters(['todos'])
+  }
+}
+```
+peut s'écrire également comme ça : 
+```
+import { mapGetters } from 'vuex'
+export default {
+  name: 'TheTodoList',
+  computed: {
+    todos () {
+      return this.$store.getters.todos    }
+  }
+}
 ```

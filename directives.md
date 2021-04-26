@@ -138,3 +138,9 @@ Etape 1 - Interface
 	
 	
 - Avec un clic sur une icône "croix" dans une card, on peut supprimer ladite todo.
+
+
+- implémenter l'ajout de todo
+- implémenter la suppression de todo
+- styliser le form et le rendu de données
+- utiliser les boucles vue pour afficher chaque entrée de todo et coupler avec un composant

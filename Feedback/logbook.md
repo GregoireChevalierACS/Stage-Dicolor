@@ -134,3 +134,7 @@ Après-midi
 - Lancement du projet todo sur nuxt
 - Création du projet
 - Création de clé ssh pour accéder au projet git
+- Connexion bitbucket au projet
+- installation des dépendances
+- Étape 1 : interface, création du form
+- Installation de gitgraph
