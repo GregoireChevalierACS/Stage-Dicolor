@@ -103,3 +103,18 @@ se renseigner sur v-model -> watch -> emit -> @
 **store** : stockage de l'application. Le fichier store s'il est seul se nomme index.js, sinon, les fichiers sont scrupuleusement nommés.
 
 copie par référence != copie par valeur
+
+*26Avril*
+
+```
+To get started:
+
+        cd todonuxt
+        npm run dev
+
+  To build & start for production:
+
+        cd todonuxt
+        npm run build
+        npm run start
+```

@@ -113,3 +113,28 @@ doit contenir AU MOINS :
 **confirmation mdp**
 		
 - identique au mdp précédemment entré
+
+**26Avril**
+
+Etape 1 - Interface
+
+
+	
+	
+- Créer un formulaire TheForm.vue pour ajouter un nouveau todo
+	
+	
+	
+- Ce formulaire comprend deux champs, le titre et le contenu (textarea)
+	
+	
+	
+- Lorsqu'on valide le formulaire (avec un bouton custom) en s'étant assuré que le titre et le contenu ont été remplis, on ajoute dans le store un nouveau todo.
+	
+	
+	
+- Créer un autre composant, TheTodoList.vue, qui contient la liste des todos que l'on a crée (sous forme de cards).
+	
+	
+	
+- Avec un clic sur une icône "croix" dans une card, on peut supprimer ladite todo.

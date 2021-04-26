@@ -125,4 +125,12 @@ Après-midi
 
 23 Avril 
 
--
+- Revue de code
+- Détail des corrections apportées par Romain
+- Déconstruction du projet test de JM
+
+26 Avril
+
+- Lancement du projet todo sur nuxt
+- Création du projet
+- Création de clé ssh pour accéder au projet git
