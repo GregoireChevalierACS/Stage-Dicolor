@@ -138,3 +138,11 @@ Après-midi
 - installation des dépendances
 - Étape 1 : interface, création du form
 - Installation de gitgraph
+- Essai d'utilisation de props
+
+27 Avril
+
+- Résolution des problèmes liés aux props
+- Tests liés aux évènements de button
+- Début du travail de suppression de todo de la list
+- Suppression opérationnelle
