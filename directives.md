@@ -144,3 +144,39 @@ Etape 1 - Interface
 - implémenter la suppression de todo
 - styliser le form et le rendu de données
 - utiliser les boucles vue pour afficher chaque entrée de todo et coupler avec un composant
+
+**28Avril**
+
+Ajouter un nouveau champ sous forme de case à cocher pour stipuler ou non que la tâche est prioritaire - cela ajoutera aux côtés de title et content une nouvelle clé important (booléen)
+	
+	
+	
+Lorsqu'on ajoute un todo, on doit désormais écrire sa date de création au format timestamp (avec day.js) avec une nouvelle clé created_at
+	
+	
+	
+Ajouter la possibilité de filtrer la liste des todos (via un menu select) :
+
+	
+
+		
+		
+par ordre d'importance
+		
+		
+		
+par date de création
+		
+		
+		
+par ordre alphabétique
+		
+	
+	
+	
+	
+Gérer un mode ascendant/descendant pour ces filtres
+	
+	
+	
+Ajouter un bouton pour supprimer toutes les tâches

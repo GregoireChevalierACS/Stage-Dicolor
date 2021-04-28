@@ -146,3 +146,8 @@ Après-midi
 - Tests liés aux évènements de button
 - Début du travail de suppression de todo de la list
 - Suppression opérationnelle
+
+28 Avril
+
+- Session de tests tailwind
+- Début phase 2 todolist
