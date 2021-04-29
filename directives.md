@@ -147,36 +147,18 @@ Etape 1 - Interface
 
 **28Avril**
 
-Ajouter un nouveau champ sous forme de case à cocher pour stipuler ou non que la tâche est prioritaire - cela ajoutera aux côtés de title et content une nouvelle clé important (booléen)
+- *Ajouter un nouveau champ sous forme de case à cocher pour stipuler ou non que la tâche est prioritaire - cela ajoutera aux côtés de title et content une nouvelle clé important (booléen)*
 	
-	
-	
-Lorsqu'on ajoute un todo, on doit désormais écrire sa date de création au format timestamp (avec day.js) avec une nouvelle clé created_at
-	
-	
-	
-Ajouter la possibilité de filtrer la liste des todos (via un menu select) :
+- *Lorsqu'on ajoute un todo, on doit désormais écrire sa date de création au format timestamp (avec day.js) avec une nouvelle clé created_at* !!! timestamp
 
+- Ajouter la possibilité de filtrer la liste des todos (via un menu select) :
+		
+- par ordre d'importance
+		
+- par date de création
+		
+- par ordre alphabétique
+		
+- Gérer un mode ascendant/descendant pour ces filtres
 	
-
-		
-		
-par ordre d'importance
-		
-		
-		
-par date de création
-		
-		
-		
-par ordre alphabétique
-		
-	
-	
-	
-	
-Gérer un mode ascendant/descendant pour ces filtres
-	
-	
-	
-Ajouter un bouton pour supprimer toutes les tâches
+- *Ajouter un bouton pour supprimer toutes les tâches*

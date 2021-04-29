@@ -151,3 +151,9 @@ Après-midi
 
 - Session de tests tailwind
 - Début phase 2 todolist
+- Réalisation et link de la checkbox important
+
+29 Avril
+
+- Installation et doc day.js
+- Début du travail sur le timestamp
