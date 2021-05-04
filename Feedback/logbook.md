@@ -157,3 +157,21 @@ Après-midi
 
 - Installation et doc day.js
 - Début du travail sur le timestamp
+
+30 Avril
+
+- Visio Strapi
+- Tests Strapi
+
+03 Mai
+
+- Poursuite de l'exercice to do avec strapi
+- Doc couplage nuxt/strapi
+- Réunion ux/ui projet préparateur de commandes gilotte
+- Réso bug sessions windows
+
+04 Mai
+
+- Couplage nuxt/strapi
+- Réunion newenberg
+- 

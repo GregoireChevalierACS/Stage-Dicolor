@@ -34,3 +34,7 @@ https://ubuntu.com/tutorials/ssh-keygen-on-windows#3-key-generation-with-ubuntu-
 https://michaelnthiessen.com/vue-props-ultimate-guide/ (props dans nuxt)
 https://fr.vuejs.org/v2/guide/components-registration.html (composants dans vue)
 https://www.npmjs.com/package/@nuxtjs/dayjs (couplage day-nuxt)
+https://strapi.io/documentation/developer-docs/latest/getting-started/quick-start.html (init projet strapi)
+https://openbase.com/ (module finder)
+https://strapi.nuxtjs.org/usage (doc nuxt strapi)
+https://strapi.nuxtjs.org/strapi/#methods (methodes strapi)
